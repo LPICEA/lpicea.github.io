@@ -14,12 +14,12 @@
 ## Base settings ##
 # url:  # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: '/'
-title: Guan Yifei's Pages
+title: LPICEA group website
 description: > #this means to ignore newlines until "nav_lists:"
   Blog and Online Resume
 
 nav_lists:
-  - title: Online Resume
+  - title: About us
     url: /about.html
 
 ## GitHub repository (if the site is hosted by GitHub) ##
@@ -32,11 +32,11 @@ timezone: Asia/Shanghai
 
 ## Author & social ##
 author:
-  name: Guan Yife
-  email:  guan.yifei@outlook.com #your Email address e.g. someone@site.com
+  name: LPICEA Tsinghua
+  email:   #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-  github:  richard2333#your GitHub username
+  github:  LPICEA #your GitHub username
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
