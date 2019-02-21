@@ -14,9 +14,9 @@
 ## Base settings ##
 # url:  # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: '/'
-title: LPICEA group website
+title: LPICEA
 description: > #this means to ignore newlines until "nav_lists:"
-  Blog and Online Resume
+  Group website of LPICEA
 
 nav_lists:
   - title: About us
