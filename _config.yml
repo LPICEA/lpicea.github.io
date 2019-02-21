@@ -21,6 +21,8 @@ description: > #this means to ignore newlines until "nav_lists:"
 nav_lists:
   - title: About us
     url: /about.html
+  - title: Publications
+    url: /publication.html
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 # repository: e.g. someone.github.io
