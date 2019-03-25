@@ -8,6 +8,8 @@
 
 ### Graduate students
 
+![Qiao](https://raw.githubusercontent.com/LPICEA/lpicea.github.io/master/screenshots/Qiao.png)
+
 * Shengchao Qiao is interested in crop growth simulation. He tries to construct a simple crop model (PC model) based on theories and observations with the development of current natural vegetation models. He studies the response of crop growth to environmental conditions and management practices, and the food production risks in the future scenarios.
 
   Currently, he is working on extending a universal productivity model (proposed by Wang et al.) to predict crop grain yield. At the same time, his work also involves the comparison of differences in harvest index parameterization of different crop models, and the sensitivity analysis of harvest index to different factors, such as fertilization and irrigation, et al.
