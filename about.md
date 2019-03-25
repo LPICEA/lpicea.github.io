@@ -18,6 +18,10 @@
 
   Shengchao Qiao is currently studying for an ecology PhD at Tsinghua University.
 
+  ​
+
+![xu](https://raw.githubusercontent.com/LPICEA/lpicea.github.io/master/screenshots/xu.jpeg)
+
 * Huiying works on the mechanism behind the variations of plant functional traits across time and space, and their predictions based on the theory of first principles. Her research involves the relationships between traits themselves and environment variables, and the prediction of leaf traits using models with the data from fieldwork and collections.
 
   Currently, she focuses on the relationship between leaf nitrogen and climate variables along altitudinal gradients and predictability of leaf nitrogen with existing models combined. She’s also interested in hydraulic traits and its interaction with photosynthetic traits.
