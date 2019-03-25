@@ -1,4 +1,8 @@
-## Group Members
+---
+layout: page
+title: Members
+
+---
 
 | Group Leader                             |                                          |
 | :--------------------------------------- | :--------------------------------------- |
@@ -6,4 +10,6 @@
 | **Graduate&nbsp;students**               |                                          |
 | ![Qiao](https://raw.githubusercontent.com/LPICEA/lpicea.github.io/master/screenshots/Qiao.png) | Shengchao Qiao is interested in crop growth simulation. He tries to construct a simple crop model (PC model) based on theories and observations with the development of current natural vegetation models. He studies the response of crop growth to environmental conditions and management practices, and the food production risks in the future scenarios. Currently, he is working on extending a universal productivity model (proposed by Wang et al.) to predict crop grain yield. At the same time, his work also involves the comparison of differences in harvest index parameterization of different crop models, and the sensitivity analysis of harvest index to different factors, such as fertilization and irrigation, et al. Shengchao Qiao is currently studying for an ecology PhD at Tsinghua University. |
 | ![xu](https://raw.githubusercontent.com/LPICEA/lpicea.github.io/master/screenshots/xu.jpeg) | Huiying works on the mechanism behind the variations of plant functional traits across time and space, and their predictions based on the theory of first principles. Her research involves the relationships between traits themselves and environment variables, and the prediction of leaf traits using models with the data from fieldwork and collections. |
+| External&nbsp;collaborators              |                                          |
+| ![wangrunxi](https://raw.githubusercontent.com/LPICEA/lpicea.github.io/master/screenshots/wangrunxi.png) | Runxi Wang holds very broad research interests in ecology, biogeography and entomology, as well as linguistics, regarding scientific research as his lifestyle and lifelong pursuit. However, he is still a system-driven biologist, mainly focus on insects (especially ant, true bug and dragonfly) and plants, and try to understand the underlying mechanism of community assembly across different spatial (metacommunity, local, regional and global) and temporal scales (diurnal, seasonal, interannual and geological). He is also trying to combine taxonomic, functional and phylogeographic approaches to solving these ecological and evolutional questions, based on both observation and modelling. Runxi is a PhD student at the University of Hong Kong now. Apart from academic, he also enjoys hiking, photography, designing and playing Taichi! |
 
