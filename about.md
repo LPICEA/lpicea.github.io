@@ -1,3 +1,5 @@
+# Group Members
+
 ### PI
 
 * Dr. Han Wang is a quantitative plant ecologist. She is interested in mathematically predicting the responses of plants and ecosystems and to environmental changes from first-principles, such as the optimality hypotheses rooted in natural selection. By expanding the role of theory in ecology, she aims to understand the links between the acclimation/adaptation of plant ecophysiological processes, the evolution of plants and the succession of ecosystem and even earth system. 
