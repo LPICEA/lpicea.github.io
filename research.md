@@ -1,10 +1,16 @@
-## Research
+---
+layout: page
+title: Research
 
-**"Big data without a big theory to go with it loses much of its potency and usefulness"** (West 2013, p.14)
+---
+
 
 The LPICEA team at DESS, Tsinghua persists on their way to release the potency and usefulness of big data with big theories in plant ecology, and welcome students, postdocs, visitors with **ANY** background to reunion the force!
 
 ------
+
+
+**"Big data without a big theory to go with it loses much of its potency and usefulness"** (West 2013, p.14)
 
 - **Theory in plant photosynthesis and ecosystem primary production** 
 
