@@ -8,6 +8,8 @@ tags: markdown
 
 During last week (18th - 20th, March), the LPICEA group visited Professor YE Qing in South China Botanical Garden (SCBG), Chinese Academy of Science. Professor Ye shares the common interests in plant functional traits with LPICEA group and has been working on the responses of plant eco-physiological processes and forest community assemblage to global environmental changes for many years.
 
+<!--more-->
+
 
 After swapping ideas with Professor Ye on the key questions in plant functional biogeography, Dr. WANG Han discussed with Professor Ye on the potential collaborations in future in terms of data analysis, model development, visiting studentship and so on. All the LPICEA member visited Professor Ye’s lab and learnt to measure hydraulic traits, such as leaf conductance and xxx from LIU Xiaorong. Xiongrong is a forth year PhD student with Professor Ye. She is super good at design hydraulic trait measurement system, and shared lots of tips with LPICEA member. Her guidance allows LPICEA to have much clearer ideas on what to prepare for their fieldwork this summer. Indeed, we are going to measure HYDRAULIC traits in Gonnga soon!
 

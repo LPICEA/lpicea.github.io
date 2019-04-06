@@ -9,9 +9,6 @@ The LPICEA team at DESS, Tsinghua persists on their way to release the potency a
 
 ------
 
-
-**"Big data without a big theory to go with it loses much of its potency and usefulness"** (West 2013, p.14)
-
 - **Theory in plant photosynthesis and ecosystem primary production** 
 
   ‘Although many believe that more is better, history tells us that least is best. We need theory and a firm grasp on the nature of the objects we study to predict the rest’ (Brenner 2012, p. 461). 
