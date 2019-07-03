@@ -1,6 +1,13 @@
-# From 1 to N: 20 minutes of Linear Algebra & Tensors
+---
+layout: post
+title: Introduction to Linear Algebra and More
+tags: markdown
+
+---
 
 Linear algebra has been widely used in a variety of fields in mathematics and science. Starting from the simple questions of solving linear equations, the methods and ideas in linear algebra are also applied in some advanced topics of math, such as group representation theory and differential equations. Here in this article, I am trying to give a brief introduction to linear algebra and its basic application with simplest languages and hopefully least number of equations.
+
+<!--more-->
 
 Generally, linear algebra is the branch of mathematics to **deal with the elements in linear spaces - vectors and their transformations**.  If you want a minimum introduction, this sentence already covers 80% of the content. However, it is still hard for beginners to understand the terms "linear spaces" or "transformations". Do not worry, here comes the explanation.
 
