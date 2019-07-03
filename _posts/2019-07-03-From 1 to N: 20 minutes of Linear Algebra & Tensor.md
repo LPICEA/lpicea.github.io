@@ -70,7 +70,7 @@ Now, it seems that we are in trouble: what will the result be if we flip the ord
 
 NO, you CAN NOT, at least if you still stick to matrices. However, if we ascend to higher orders, there comes the solution: multiply to each row and put the results together in the way the rows are ordered. Such approach is called "tensor product":
 
-![g3846](/home/richard/g3846.png)
+![g3846](https://raw.githubusercontent.com/LPICEA/lpicea.github.io/master/screenshots/g3846.png)
 
 A 3-order tensor can be regarded as a 3-d grid of elements, and it has an algebraic meaning: just recall that 2-tensors or matrices are transformations between vectors, 3-tensors are thus transformations of matrices!
 
